@@ -1283,7 +1283,7 @@ caso contenha dados reais.
 - GitHub
 - HTML
 - CSS
-- JavaScript
+- Python
 
 ---
 
